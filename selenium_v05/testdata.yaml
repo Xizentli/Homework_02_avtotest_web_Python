@@ -1,0 +1,8 @@
+address: http://test-stand.gb.ru
+browser: firefox
+wait: 5
+username: 14Mark14
+password: 11108ed6d6
+title: "New post for auto"
+description: "Description"
+content: "Content"
